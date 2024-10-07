@@ -2,7 +2,6 @@ pandas
 numpy
 matplotlib.pyplot
 seaborn
-scikitlearn
 pickle
 streamlit
 sklearn
